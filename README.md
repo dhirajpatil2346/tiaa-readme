@@ -3,7 +3,7 @@
 
 ####    Resolver is an innovative online platform designed to help users find solutions to their queries and challenges. Inspired by the concept of problem-solving, Resolver aims to provide a space where individuals can seek answers, guidance, and assistance from a community of knowledgeable individuals.
 
-[![Project Image](https://drive.google.com/uc?export=view&id=171fZ-71gYVhcT_ZOz-fqCAsSoycChGjM)](https://drive.google.com/file/d/171fZ-71gYVhcT_ZOz-fq
+![Project Image](https://drive.google.com/uc?export=view&id=171fZ-71gYVhcT_ZOz-fqCAsSoycChGjM)
 
 <br>
 
